@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4iy87hft4uhpsb6s?svg=true)](https://ci.appveyor.com/project/NastyaImp/aqa-bdd-1)
